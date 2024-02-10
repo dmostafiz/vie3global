@@ -8,7 +8,6 @@ export default function Home() {
       <Flex h={'full'} justify={'center'} alignItems={'center'} >
         <Image h={'120px'} src='/logo.png' />
       </Flex>
-
     </Box>
   );
 }
